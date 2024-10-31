@@ -1,0 +1,1 @@
+When downloaded you have to build it with apache ant
